@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](costahadassa@gmail.com) -->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://](https://www.linkedin.com/in/costahadassa/)
 
 <!--
 **Costahadassa/Costahadassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
