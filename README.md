@@ -24,8 +24,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](jucterin@gmail.com) -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/costahadassa/)
-### Languages and Tools:
+[![Linkedin Badge] <a href="https://linkedin.com/in/costahadassa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="costahadassa" height="30" width="40" /></a>
+</p>
+
 
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
