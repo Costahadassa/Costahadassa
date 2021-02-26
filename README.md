@@ -1,9 +1,15 @@
+# Hello 
+### My name is Hadassa Costa, I'm studying Front-End dev in [Laboratória](https://static.vecteezy.com/ti/vetor-gratis/p1/681785-ilustracao-de-tela-de-computador-gr%C3%A1tis-vetor.jpg), a 6 month bootcamp. The training is intensive, aimed at the formation of a junior front-end developer who knows how to work in environments of uncertainty and constant change. It learns JavaScript, HTML, CSS, UX, and more. In the bootcamp, not only technical skills are developed, but also soft skills and professional skills, such as self-learning, communication, teamwork, among others.
+
+
+<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/681785-ilustracao-de-tela-de-computador-gr%C3%A1tis-vetor.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <br> 
 <!-- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](jucterin@gmail.com) -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/julia-terin/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-carvalho-2760a5126/)](https://www.linkedin.com/in/costahadassa/)
 ### Languages and Tools:
 
 
